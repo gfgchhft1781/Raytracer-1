@@ -1,0 +1,9 @@
+
+/src/raytracerW32/Debug
+/src/raytracerW32/ipch
+/src/raytracerW32/view1.bmp
+/src/raytracerW32/view2.bmp
+/src/raytracerW32/Release
+/src/raytracerW32/*.o
+
+/src/Release
